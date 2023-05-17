@@ -1,0 +1,15 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#center-button {
+    background-color: #ff9800;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* Adicione mais estilos personalizados conforme necessário */
